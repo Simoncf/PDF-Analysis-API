@@ -33,9 +33,9 @@ ollama pull llama3.2
 curl http://localhost:11434/api/tags
 ```
 
-### 2. .NET 8 SDK
+### 2. .NET 9 SDK
 ```bash
-dotnet --version   # should be 8.x
+dotnet --version   # should be 9.x
 ```
 
 ## Running
