@@ -1,6 +1,6 @@
 # PDF Analysis API
 
-ASP.NET Core 8 Web API that extracts structured data from PDF files using a locally running
+ASP.NET Core 9 Web API that extracts structured data from PDF files using a locally running
 LLaMA model via Ollama.
 
 ## Architecture
